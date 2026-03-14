@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="Dataset" position="(47.0, 269.0)" />
+		<node id="1" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(176.0, 133.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="pickle">gASVHwUAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZQojB5v
+cmFuZ2V3aWRnZXQudXRpbHMuZmlsZWRpYWxvZ3OUjApSZWNlbnRQYXRolJOUKYGUfZQojAdhYnNw
+YXRolIwuQzovVXNlcnMvdXNlci9Eb3dubG9hZHMvbW9vY3Nfc3RlbV9yZXZpZXdzLmNzdpSMBnBy
+ZWZpeJROjAdyZWxwYXRolE6MBXRpdGxllIwWbW9vY3Nfc3RlbV9yZXZpZXdzLmNzdpSMBXNoZWV0
+lIwAlIwLZmlsZV9mb3JtYXSUTnViaAYpgZR9lChoCYwzRTovQ29uZGEvTGliL3NpdGUtcGFja2Fn
+ZXMvT3JhbmdlL2RhdGFzZXRzL2lyaXMudGFilGgLjA9zYW1wbGUtZGF0YXNldHOUaAyMCGlyaXMu
+dGFilGgNaBBoD2gQaBFOdWJoBimBlH2UKGgJjDZFOi9Db25kYS9MaWIvc2l0ZS1wYWNrYWdlcy9P
+cmFuZ2UvZGF0YXNldHMvdGl0YW5pYy50YWKUaAtoFWgMjAt0aXRhbmljLnRhYpRoDWgQaA9oEGgR
+TnViaAYpgZR9lChoCYw2RTovQ29uZGEvTGliL3NpdGUtcGFja2FnZXMvT3JhbmdlL2RhdGFzZXRz
+L2hvdXNpbmcudGFilGgLaBVoDIwLaG91c2luZy50YWKUaA1oEGgPaBBoEU51YmgGKYGUfZQoaAmM
+PEU6L0NvbmRhL0xpYi9zaXRlLXBhY2thZ2VzL09yYW5nZS9kYXRhc2V0cy9oZWFydF9kaXNlYXNl
+LnRhYpRoC2gVaAyMEWhlYXJ0X2Rpc2Vhc2UudGFilGgNaBBoD2gQaBFOdWJoBimBlH2UKGgJjD1F
+Oi9Db25kYS9MaWIvc2l0ZS1wYWNrYWdlcy9PcmFuZ2UvZGF0YXNldHMvYnJvd24tc2VsZWN0ZWQu
+dGFilGgLaBVoDIwSYnJvd24tc2VsZWN0ZWQudGFilGgNaBBoD2gQaBFOdWJoBimBlH2UKGgJjDJF
+Oi9Db25kYS9MaWIvc2l0ZS1wYWNrYWdlcy9PcmFuZ2UvZGF0YXNldHMvem9vLnRhYpRoC2gVaAyM
+B3pvby50YWKUaA1oEGgPaBBoEU51YmWMC3JlY2VudF91cmxzlF2UjBNzYXZlZFdpZGdldEdlb21l
+dHJ5lENCAdnQywADAAAAAAWLAAABigAAB+QAAAPPAAAFjAAAAakAAAfjAAADzgAAAAAAAAAADXAA
+AAWMAAABqQAAB+MAAAPOlIwLc2hlZXRfbmFtZXOUfZSMBnNvdXJjZZRLAIwDdXJslGgQjA1kb21h
+aW5fZWRpdG9ylH2UjAtfX3ZlcnNpb25fX5RLAYwQY29udGV4dF9zZXR0aW5nc5RdlIwVb3Jhbmdl
+d2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwJdmFyaWFibGVz
+lF2UaDN9lGg/XZQoXZQojAdSZXZpZXdzlIwUT3JhbmdlLmRhdGEudmFyaWFibGWUjA5TdHJpbmdW
+YXJpYWJsZZSTlEsCaBCJZV2UKIwKVW5uYW1lZDogMZRoR0sCaBCJZWVzaDVLAXWMCmF0dHJpYnV0
+ZXOUKYwFbWV0YXOUaERLA4aUaElLA4aUhpSMCmNsYXNzX3ZhcnOUKYwSbW9kaWZpZWRfdmFyaWFi
+bGVzlF2UdWJhdS4=
+</properties>
+		<properties node_id="1" format="literal">{'attr_x_is_abs': False, 'attr_y_is_abs': False, 'auto_commit': True, 'auto_sample': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x04\x81\x00\x00\x01;\x00\x00\x08\xee\x00\x00\x04\x1e\x00\x00\x04\x82\x00\x00\x01Z\x00\x00\x08\xed\x00\x00\x04\x1d\x00\x00\x00\x00\x00\x00\x00\x00\rp\x00\x00\x04\x82\x00\x00\x01Z\x00\x00\x08\xed\x00\x00\x04\x1d', 'selection': None, 'tooltip_shows_all': True, 'visual_settings': {}, 'graph': {'alpha_value': 128, 'class_density': False, 'jitter_continuous': False, 'jitter_size': 0, 'label_only_selected': False, 'orthonormal_regression': False, 'point_width': 10, 'show_ellipse': False, 'show_grid': False, 'show_legend': True, 'show_reg_line': False}, '__version__': 5, 'context_settings': []}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
