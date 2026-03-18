@@ -25,6 +25,7 @@
 ## 2. Метод Hierarchical Clustering: `Utility_grade` vs `GPA` и `AI_knowledge` vs `Utility_grade`
 ### Схема Иерархии для 5 кластеров:
 ![one](/Images/Hierarchical_ClusteringP1.png)
+
 Эти двумерные графики показывает распределение студентов по двум ключевым парам признаков: мнение что ИИ полезен - средняя оценка и знание ИИ - мнение что ИИ полезен: 
 ![one](/Images/Hierarchical_ClusteringP2.png)
 
@@ -62,14 +63,17 @@
 ### Были выбраны три метода классификации: Decision Tree, Random Forest и  Logistic Regression
 #### Результаты работы Decision Tree
 ![one](/Images/DecisionTreeP.png)
+
 Для дерева решений программа составила древо решений
 ![one](/Images/DecisionTreeP1.png)
 #### Результаты работы Random Forest
 ![one](/Images/RandomForestP.png)
+
 Для данного метода был составлен список важности признаков
 ![one](/Images/RandomForestP1.png)
 #### Результаты работы Logistic Regression
 ![one](/Images/LogisticRegressionP.png)
+
 Для данного метода были составлены ROC-кривые
 ![one](/Images/LogisticRegressionP1.png)
 ### Сравнение точности моделей
@@ -87,6 +91,3 @@
 2.  **`hierarchical_clusters.csv`** — Данные распределённые по кластерам через метод Hierarchical Clustering
 3.  **`student_classification_results.csv`** — Обработанные данные для классификации.
 4.  **`feature_importance.csv`** — Важность признаков (Random Forest).
-
----
-**✅ Статус:** Кластеризация успешно выполнена.
